@@ -24,6 +24,7 @@
   "license": "BSD",
   "dependencies": {
     "centered": "0.0.0",
-    "cover-background": "0.0.3"
+    "cover-background": "0.0.3",
+    "brick": "0.0.7"
   }
 }

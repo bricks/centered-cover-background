@@ -23,8 +23,8 @@
   "author": "azer",
   "license": "BSD",
   "dependencies": {
-    "centered": "0.0.0",
-    "cover-background": "0.0.3",
-    "brick": "0.0.7"
+    "centered": "0.0.x",
+    "cover-background": "0.0.x",
+    "brick": "0.0.x"
   }
 }

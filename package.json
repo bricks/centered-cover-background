@@ -1,0 +1,29 @@
+{
+  "name": "centered-cover-background",
+  "version": "0.0.1",
+  "description": "Cover Background With Centered Content",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "cover",
+    "background",
+    "center",
+    "css",
+    "css3",
+    "brick",
+    "dom",
+    "browser"
+  ],
+  "repository": {
+    "url": "git@github.com:bricks/centered-cover-background.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "centered": "0.0.0",
+    "cover-background": "0.0.3"
+  }
+}

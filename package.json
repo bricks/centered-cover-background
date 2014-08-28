@@ -1,6 +1,6 @@
 {
   "name": "centered-cover-background",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cover Background With Centered Content",
   "main": "index.js",
   "scripts": {

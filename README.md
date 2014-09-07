@@ -1,6 +1,8 @@
 ## centered-cover-background
 
-Cover Background With Centered Content
+Cover Background With Centered Content.
+
+Demo: [listenparadise.org](http://listenparadise.org)
 
 ## Install
 
